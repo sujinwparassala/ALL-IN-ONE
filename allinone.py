@@ -112,6 +112,7 @@ B3 = tkinter.Button(root, activebackground="BLUE",activeforeground="red",bd=6,bg
 B3.pack(side=LEFT)
 
 # display Menu
+#display menu added
 root.config(menu = menubar)
 mainloop()
 
